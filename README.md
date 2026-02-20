@@ -25,7 +25,7 @@ Two problems. **Pick one.**
 
 | | Problem A | Problem B |
 |---|---|---|
-| **Name** | [Late Delivery Prediction](problems/PROBLEM_A/PROBLEM_A.md) | [App Churn Reason Classification](problems/problem_B/PROBLEM_B.md) |
+| **Name** | [Late Delivery Prediction](problems/PROBLEM_A/PROBLEM_A.md) | [App Churn Reason Classification](problems/PROBLEM_B/PROBLEM_B.md) |
 | **Type** | Binary classification | Multiclass classification (4 classes) |
 | **Features** | 17 | 28 |
 | **Difficulty** | Accessible — clear patterns, fewer features | Harder — overlapping classes, fuzzy boundaries |
