@@ -118,7 +118,6 @@ How did you verify the external data was clean and trustworthy?
 | Member 1 | Feature engineering and preprocessing |
 | Member 2 | Model training and hyperparameter tuning |
 | Member 3 | Validation strategy and performance evaluation |
-| Member 4 | Submission formatting and pipeline debugging |
 
 ---
 
@@ -126,7 +125,7 @@ How did you verify the external data was clean and trustworthy?
 
 I confirm that all external data sources used are listed in Section 2 and are publicly available.
 
-- **Yes**
+- **N/A**
 ---
 
 ## May submit this here in markdown only here!!
