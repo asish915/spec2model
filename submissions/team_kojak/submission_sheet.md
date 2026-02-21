@@ -11,7 +11,7 @@ Fill this out during the event and include it as `submission_sheet.pdf` (or `.md
 - **Member 1:** Saheb Satya Prakash Sha, 23BCSF67, CSE
 - **Member 2:** Asish Sarangi, 23BCSD78, CSE
 - **Member 3:** Biswajeet Srichandan, 23BCSD65, CSE
-- **Contact (any one member):** 
+- **Contact (any one member):** 7815013289
 
 ---
 
