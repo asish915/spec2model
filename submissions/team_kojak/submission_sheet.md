@@ -8,11 +8,10 @@ Fill this out during the event and include it as `submission_sheet.pdf` (or `.md
 
 - **Team Name:**
 - **Problem Chosen:** A / B
-- **Member 1:** Name, SIC, Branch
-- **Member 2:** Name, SIC, Branch
-- **Member 3:** Name, SIC, Branch
-- **Member 4:** Name, SIC, Branch
-- **Contact (any one member):**
+- **Member 1:** Saheb Satya Prakash Sha, SIC, CSE
+- **Member 2:** Asish Sarangi, SIC, CSE
+- **Member 3:** Biswajeet Srichandan, 23BCSD65, CSE
+- **Contact (any one member):** 
 
 ---
 
@@ -20,7 +19,7 @@ Fill this out during the event and include it as `submission_sheet.pdf` (or `.md
 
 Did you use any external data beyond the provided train.csv?
 
-- **Yes / No**
+- **Yes / No** No
 
 If yes, fill the table below for each source:
 
